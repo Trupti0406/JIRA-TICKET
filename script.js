@@ -13,5 +13,4 @@ function changeColor(e) {
   let color = allclasses[1];
   console.log(color);
   main.style.backgroundColor = color;
-  // console.log(elem, " ", allclasses);
 }
